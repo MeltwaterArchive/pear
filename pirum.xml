@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <server>
-  <name>datasift.github.com/pear</name>
+  <name>datasift.github.io/pear</name>
   <summary>DataSift's PEAR Channel</summary>
   <alias>DataSift</alias>
-  <url>http://datasift.github.com/pear</url>
+  <url>http://datasift.github.io/pear</url>
 </server>
