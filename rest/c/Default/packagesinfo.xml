@@ -26,5 +26,31 @@
             <d>a:1:{s:8:"required";a:3:{s:3:"php";a:1:{s:3:"min";s:5:"5.3.0";}s:13:"pearinstaller";a:1:{s:3:"min";s:5:"1.9.4";}s:7:"package";a:4:{s:4:"name";s:11:"Autoloader4";s:7:"channel";s:21:"pear.phix-project.org";s:3:"min";s:5:"4.0.0";s:3:"max";s:10:"4.999.9999";}}}</d>
         </deps>
 
+    </pi>    <pi>
+        <p>
+            <n>webdriver1</n>
+            <c>datasift.github.io/pear</c>
+            <ca xlink:href="/rest/c/Default">Default</ca>
+            <l>All rights reserved.</l>
+            <s>Interface to Selenium 2 aka WebDriver</s>
+            <d>
+    This library is a client for Selenium WebDriver.  It is forked from Facebook's php-webdriver project.  The main changes are bug fixes, PSR0-autoloading support, and publishing it as a PEAR package.
+  </d>
+            <r xlink:href="/rest/r/webdriver1" />
+        </p>
+
+        <a>
+            <r>
+                <v>1.0.0snapshot201304190815</v>
+                <s>snapshot</s>
+            </r>
+
+        </a>
+
+        <deps>
+            <v>1.0.0snapshot201304190815</v>
+            <d>a:1:{s:8:"required";a:3:{s:3:"php";a:1:{s:3:"min";s:5:"5.3.0";}s:13:"pearinstaller";a:1:{s:3:"min";s:5:"1.9.4";}s:7:"package";a:2:{i:0;a:4:{s:4:"name";s:11:"Autoloader4";s:7:"channel";s:21:"pear.phix-project.org";s:3:"min";s:5:"4.0.0";s:3:"max";s:10:"4.999.9999";}i:1;a:4:{s:4:"name";s:6:"Stone1";s:7:"channel";s:23:"datasift.github.io/pear";s:3:"min";s:5:"1.0.0";s:3:"max";s:10:"1.999.9999";}}}}</d>
+        </deps>
+
     </pi>
 </f>
