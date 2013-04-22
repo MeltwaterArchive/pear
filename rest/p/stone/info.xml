@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <p xmlns="http://pear.php.net/dtd/rest.package" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://pear.php.net/dtd/rest.package    http://pear.php.net/dtd/rest.package.xsd">
-<n>Stone1</n>
+<n>Stone</n>
 <c>datasift.github.io/pear</c>
 <ca xlink:href="/rest/c/Default">Default</ca>
 <l>New BSD license.</l>
@@ -8,5 +8,5 @@
 <d>
     This is DataSift's in-house library for building QA tools that simultaneously provide deeper insight into what's happening whilst being quick enough to run at firehose scale.
   </d>
-<r xlink:href="/rest/r/stone1" />
+<r xlink:href="/rest/r/stone" />
 </p>
