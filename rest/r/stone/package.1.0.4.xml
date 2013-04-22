@@ -16,9 +16,9 @@
     <active>yes</active>
   </lead>
   <date>2013-04-22</date>
-  <time>18:25:59</time>
+  <time>18:45:52</time>
   <version>
-    <release>1.0.1</release>
+    <release>1.0.4</release>
     <api>1.0</api>
   </version>
   <stability>
@@ -191,7 +191,7 @@
         <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
         <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
       </file>
-      <file baseinstalldir="/" md5sum="1305713c91487edd99c312c08de02733" name="/DataSift/Stone/LogLib/StdOutWriter.php" role="php">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+      <file baseinstalldir="/" md5sum="fee7aea2ef173c5016deab13ec493eb4" name="/DataSift/Stone/LogLib/StdOutWriter.php" role="php">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
         <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
         <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
       </file>
@@ -231,7 +231,7 @@
         <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
         <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
       </file>
-      <file baseinstalldir="/" md5sum="21d734d75439175ed47e9287011f82ad" name="/DataSift/Stone/ConfigLib/BaseConfigLoader.php" role="php">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+      <file baseinstalldir="/" md5sum="7d1a2dc079905b5ce51129df6b1422c5" name="/DataSift/Stone/ConfigLib/BaseConfigLoader.php" role="php">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
         <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
         <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
       </file>
