@@ -2,6 +2,6 @@
 <l xmlns="http://pear.php.net/dtd/rest.categorypackages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://pear.php.net/dtd/rest.categorypackages http://pear.php.net/dtd/rest.categorypackages.xsd">
   <p xlink:href="/rest/p/stone">Stone</p>
   <p xlink:href="/rest/p/storyplayer">storyplayer</p>
-  <p xlink:href="/rest/p/webdriver1">webdriver1</p>
+  <p xlink:href="/rest/p/webdriver">webdriver</p>
 
 </l>
