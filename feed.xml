@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://datasift.github.io/pear</id>
-    <updated>2013-04-23T12:12:09+01:00</updated>
+    <updated>2013-04-23T12:16:43+01:00</updated>
     <title>DataSift's PEAR Channel Latest Releases</title>
     <link href="http://datasift.github.io/pear/feed.xml" rel="self" />
     <author>
@@ -29,6 +29,19 @@
             <name>stuart</name>
         </author>
         <updated>2013-04-19T11:39:19+01:00</updated>
+        <content>
+            
+    No notes.
+  
+        </content>
+    </entry>    <entry>
+        <title>webdriver 1.0.1 (stable)</title>
+        <link href="http://datasift.github.io/pear/get/webdriver-1.0.1.tgz" />
+        <id>http://datasift.github.io/pear/get/webdriver-1.0.1.tgz</id>
+        <author>
+            <name>stuart</name>
+        </author>
+        <updated>2013-04-23T12:16:32+01:00</updated>
         <content>
             
     No notes.
