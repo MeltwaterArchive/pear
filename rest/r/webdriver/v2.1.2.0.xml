@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<r xmlns="http://pear.php.net/dtd/rest.release2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://pear.php.net/dtd/rest.release2 http://pear.php.net/dtd/rest.release2.xsd">
+    <p xlink:href="/rest/p/webdriver">webdriver</p>
+    <c>datasift.github.io/pear</c>
+    <v>1.2.0</v>
+    <a>1.2</a>
+    <mp>5.3.0</mp>
+    <st>stable</st>
+    <l>All rights reserved.</l>
+    <m>stuart</m>
+    <s>Interface to Selenium 2 aka WebDriver</s>
+    <d>
+    This library is a client for Selenium WebDriver.  It is forked from Facebook's php-webdriver project.  The main changes are bug fixes, PSR0-autoloading support, and publishing it as a PEAR package.
+  </d>
+    <da>2013-04-27 10:47:37</da>
+    <n>
+    No notes.
+  </n>
+    <f>69814980</f>
+    <g>http://datasift.github.io/pear/get/webdriver-1.2.0</g>
+    <x xlink:href="package.1.2.0.xml"/>
+</r>

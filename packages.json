@@ -27,60 +27,6 @@
                         "64": "Psr\/Log"
                     }
                 }
-            },
-            "1.1.0": {
-                "name": "pear-DataSift\/Stone",
-                "description": "DataSift's in-house library for building QA tools.",
-                "dist": {
-                    "type": "pear",
-                    "url": "http:\/\/datasift.github.io\/pear\/get\/Stone-1.1.0.tgz"
-                },
-                "version": "1.1.0",
-                "time": "2013-04-23T19:36:57+01:00",
-                "require": {
-                    "php": ">=5.3.0",
-                    "pear-phix\/Autoloader4": ">=4.0.0,<=4.999.9999"
-                },
-                "authors": [
-                    {
-                        "name": "Stuart Herbert",
-                        "email": "stuart.herbert@datasift.com",
-                        "homepage": ""
-                    }
-                ],
-                "autoload": {
-                    "classmap": {
-                        "1": "DataSift\/Stone",
-                        "63": "Psr\/Log"
-                    }
-                }
-            },
-            "1.0.4": {
-                "name": "pear-DataSift\/Stone",
-                "description": "DataSift's in-house library for building QA tools.",
-                "dist": {
-                    "type": "pear",
-                    "url": "http:\/\/datasift.github.io\/pear\/get\/Stone-1.0.4.tgz"
-                },
-                "version": "1.0.4",
-                "time": "2013-04-22T18:45:52+01:00",
-                "require": {
-                    "php": ">=5.3.0",
-                    "pear-phix\/Autoloader4": ">=4.0.0,<=4.999.9999"
-                },
-                "authors": [
-                    {
-                        "name": "Stuart Herbert",
-                        "email": "stuart.herbert@datasift.com",
-                        "homepage": ""
-                    }
-                ],
-                "autoload": {
-                    "classmap": {
-                        "1": "DataSift\/Stone",
-                        "60": "Psr\/Log"
-                    }
-                }
             }
         },
         "name": "pear-DataSift\/Stone",
@@ -136,69 +82,15 @@
     },
     "pear-DataSift\/webdriver": {
         "versions": {
-            "1.1.1": {
+            "1.2.0": {
                 "name": "pear-DataSift\/webdriver",
                 "description": "Interface to Selenium 2 aka WebDriver",
                 "dist": {
                     "type": "pear",
-                    "url": "http:\/\/datasift.github.io\/pear\/get\/webdriver-1.1.1.tgz"
+                    "url": "http:\/\/datasift.github.io\/pear\/get\/webdriver-1.2.0.tgz"
                 },
-                "version": "1.1.1",
-                "time": "2013-04-24T12:06:33+01:00",
-                "require": {
-                    "php": ">=5.3.0",
-                    "pear-phix\/Autoloader4": ">=4.0.0,<=4.999.9999",
-                    "pear-DataSift\/Stone": ">=1.0.0,<=1.999.9999"
-                },
-                "authors": [
-                    {
-                        "name": "Stuart Herbert",
-                        "email": "stuart.herbert@datasift.com",
-                        "homepage": ""
-                    }
-                ],
-                "autoload": {
-                    "classmap": [
-                        "DataSift"
-                    ]
-                }
-            },
-            "1.1.0": {
-                "name": "pear-DataSift\/webdriver",
-                "description": "Interface to Selenium 2 aka WebDriver",
-                "dist": {
-                    "type": "pear",
-                    "url": "http:\/\/datasift.github.io\/pear\/get\/webdriver-1.1.0.tgz"
-                },
-                "version": "1.1.0",
-                "time": "2013-04-23T21:20:37+01:00",
-                "require": {
-                    "php": ">=5.3.0",
-                    "pear-phix\/Autoloader4": ">=4.0.0,<=4.999.9999",
-                    "pear-DataSift\/Stone": ">=1.0.0,<=1.999.9999"
-                },
-                "authors": [
-                    {
-                        "name": "Stuart Herbert",
-                        "email": "stuart.herbert@datasift.com",
-                        "homepage": ""
-                    }
-                ],
-                "autoload": {
-                    "classmap": [
-                        "DataSift"
-                    ]
-                }
-            },
-            "1.0.2": {
-                "name": "pear-DataSift\/webdriver",
-                "description": "Interface to Selenium 2 aka WebDriver",
-                "dist": {
-                    "type": "pear",
-                    "url": "http:\/\/datasift.github.io\/pear\/get\/webdriver-1.0.2.tgz"
-                },
-                "version": "1.0.2",
-                "time": "2013-04-23T16:20:51+01:00",
+                "version": "1.2.0",
+                "time": "2013-04-27T10:47:37+01:00",
                 "require": {
                     "php": ">=5.3.0",
                     "pear-phix\/Autoloader4": ">=4.0.0,<=4.999.9999",
