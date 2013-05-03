@@ -1,6 +1,33 @@
 {
     "pear-DataSift\/Stone": {
         "versions": {
+            "1.2.1": {
+                "name": "pear-DataSift\/Stone",
+                "description": "DataSift's in-house library for building QA tools.",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/datasift.github.io\/pear\/get\/Stone-1.2.1.tgz"
+                },
+                "version": "1.2.1",
+                "time": "2013-05-03T10:05:24+01:00",
+                "require": {
+                    "php": ">=5.3.0",
+                    "pear-phix\/Autoloader4": ">=4.0.0,<=4.999.9999"
+                },
+                "authors": [
+                    {
+                        "name": "Stuart Herbert",
+                        "email": "stuart.herbert@datasift.com",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": {
+                        "1": "DataSift\/Stone",
+                        "64": "Psr\/Log"
+                    }
+                }
+            },
             "1.2.0": {
                 "name": "pear-DataSift\/Stone",
                 "description": "DataSift's in-house library for building QA tools.",
@@ -41,6 +68,34 @@
     },
     "pear-DataSift\/storyplayer": {
         "versions": {
+            "1.0.1": {
+                "name": "pear-DataSift\/storyplayer",
+                "description": "Bring your user and service stories to life through your tests.",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/datasift.github.io\/pear\/get\/storyplayer-1.0.1.tgz"
+                },
+                "version": "1.0.1",
+                "time": "2013-05-02T16:15:32+01:00",
+                "require": {
+                    "php": ">=5.3.0",
+                    "pear-phix\/Autoloader4": ">=4.0.0,<=4.999.9999",
+                    "pear-DataSift\/Stone": ">=1.0.0,<=1.999.9999",
+                    "pear-DataSift\/webdriver": ">=1.0.0,<=1.999.9999"
+                },
+                "authors": [
+                    {
+                        "name": "Stuart Herbert",
+                        "email": "stuart.herbert@datasift.com",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": [
+                        "DataSift\/Storyplayer"
+                    ]
+                }
+            },
             "1.0.0": {
                 "name": "pear-DataSift\/storyplayer",
                 "description": "Bring your user and service stories to life through your tests.",

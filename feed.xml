@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://datasift.github.io/pear</id>
-    <updated>2013-04-27T11:40:29+01:00</updated>
+    <updated>2013-05-03T10:05:25+01:00</updated>
     <title>DataSift's PEAR Channel Latest Releases</title>
     <link href="http://datasift.github.io/pear/feed.xml" rel="self" />
     <author>
@@ -9,6 +9,19 @@
     </author>
 
     <entry>
+        <title>Stone 1.2.1 (stable)</title>
+        <link href="http://datasift.github.io/pear/get/Stone-1.2.1.tgz" />
+        <id>http://datasift.github.io/pear/get/Stone-1.2.1.tgz</id>
+        <author>
+            <name>stuart</name>
+        </author>
+        <updated>2013-05-03T10:05:24+01:00</updated>
+        <content>
+            
+    No notes.
+  
+        </content>
+    </entry>    <entry>
         <title>Stone 1.2.0 (stable)</title>
         <link href="http://datasift.github.io/pear/get/Stone-1.2.0.tgz" />
         <id>http://datasift.github.io/pear/get/Stone-1.2.0.tgz</id>
@@ -16,6 +29,19 @@
             <name>stuart</name>
         </author>
         <updated>2013-04-23T21:22:10+01:00</updated>
+        <content>
+            
+    No notes.
+  
+        </content>
+    </entry>    <entry>
+        <title>storyplayer 1.0.1 (stable)</title>
+        <link href="http://datasift.github.io/pear/get/storyplayer-1.0.1.tgz" />
+        <id>http://datasift.github.io/pear/get/storyplayer-1.0.1.tgz</id>
+        <author>
+            <name>stuart</name>
+        </author>
+        <updated>2013-05-02T16:15:32+01:00</updated>
         <content>
             
     No notes.
