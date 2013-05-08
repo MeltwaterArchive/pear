@@ -1,6 +1,33 @@
 {
     "pear-DataSift\/Stone": {
         "versions": {
+            "1.2.2": {
+                "name": "pear-DataSift\/Stone",
+                "description": "DataSift's in-house library for building QA tools.",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/datasift.github.io\/pear\/get\/Stone-1.2.2.tgz"
+                },
+                "version": "1.2.2",
+                "time": "2013-05-08T16:26:37+01:00",
+                "require": {
+                    "php": ">=5.3.0",
+                    "pear-phix\/Autoloader4": ">=4.0.0,<=4.999.9999"
+                },
+                "authors": [
+                    {
+                        "name": "Stuart Herbert",
+                        "email": "stuart.herbert@datasift.com",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": {
+                        "1": "DataSift\/Stone",
+                        "64": "Psr\/Log"
+                    }
+                }
+            },
             "1.2.1": {
                 "name": "pear-DataSift\/Stone",
                 "description": "DataSift's in-house library for building QA tools.",
