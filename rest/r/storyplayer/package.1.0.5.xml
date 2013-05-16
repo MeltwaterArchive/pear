@@ -15,10 +15,10 @@
     <email>stuart.herbert@datasift.com</email>
     <active>yes</active>
   </lead>
-  <date>2013-05-09</date>
-  <time>12:34:22</time>
+  <date>2013-05-16</date>
+  <time>18:24:56</time>
   <version>
-    <release>1.0.3</release>
+    <release>1.0.5</release>
     <api>1.0</api>
   </version>
   <stability>
@@ -38,7 +38,7 @@
         <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
         <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
       </file>
-      <file baseinstalldir="/" md5sum="9d0683aad059c2562bd274a0550cef31" name="/storyplayer" role="script">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+      <file baseinstalldir="/" md5sum="341a05886bae0f222fb884fe00ce5be0" name="/storyplayer" role="script">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
         <tasks:replace from="/usr/bin/env php" to="php_bin" type="pear-config" />
         <tasks:replace from="@@PHP_BIN@@" to="php_bin" type="pear-config" />
         <tasks:replace from="@@BIN_DIR@@" to="bin_dir" type="pear-config" />
@@ -161,7 +161,7 @@
         <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
         <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
       </file>
-      <file baseinstalldir="/" md5sum="9e943d82683132f25592698273204143" name="/DataSift/Storyplayer/Prose/UuidDetermine.php" role="php">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+      <file baseinstalldir="/" md5sum="85fc6828ae3f07d5c0c932ca1cfb0598" name="/DataSift/Storyplayer/Prose/UuidDetermine.php" role="php">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
         <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
         <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
       </file>
@@ -253,6 +253,10 @@
         <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
         <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
       </file>
+      <file baseinstalldir="/" md5sum="caafbf00a5fc5dbddfa525bddb3e96c9" name="/DataSift/Storyplayer/Prose/UuidExpects.php" role="php">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
       <file baseinstalldir="/" md5sum="a932b5cbbd539a0b1715726e7c341252" name="/DataSift/Storyplayer/Prose/VagrantExpects.php" role="php">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
         <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
         <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
@@ -273,7 +277,7 @@
         <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
         <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
       </file>
-      <file baseinstalldir="/" md5sum="f3e45249cf41d855df0eb911908d6cdf" name="/DataSift/Storyplayer/Prose/TimerActions.php" role="php">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+      <file baseinstalldir="/" md5sum="04454455b1a7b754487ebdd1e0b4cacb" name="/DataSift/Storyplayer/Prose/TimerActions.php" role="php">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
         <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
         <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
       </file>
@@ -305,7 +309,7 @@
         <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
         <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
       </file>
-      <file baseinstalldir="/" md5sum="9afe9adea1cd155aa7e6e93c68ea79a6" name="/DataSift/Storyplayer/Prose/BrowserActions.php" role="php">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+      <file baseinstalldir="/" md5sum="5b9c66d37b4b979b7e67b13e6d9a779e" name="/DataSift/Storyplayer/Prose/BrowserActions.php" role="php">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
         <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
         <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
       </file>
@@ -325,7 +329,7 @@
         <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
         <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
       </file>
-      <file baseinstalldir="/" md5sum="d68fdb223dd0bf6db4fa6464afa03b2a" name="/DataSift/Storyplayer/PlayerLib/StoryConfigLoader.php" role="php">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+      <file baseinstalldir="/" md5sum="2cdf5c4edea70ecaa275dc0021ccfd37" name="/DataSift/Storyplayer/PlayerLib/StoryConfigLoader.php" role="php">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
         <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
         <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
       </file>
@@ -333,7 +337,7 @@
         <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
         <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
       </file>
-      <file baseinstalldir="/" md5sum="a1b1bcc2986fbdf1bfbbf8f7148bae0a" name="/DataSift/Storyplayer/PlayerLib/EnvironmentSetup.php" role="php">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+      <file baseinstalldir="/" md5sum="706756556eec72ba3e7e14c60ddf7696" name="/DataSift/Storyplayer/PlayerLib/EnvironmentSetup.php" role="php">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
         <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
         <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
       </file>
@@ -353,7 +357,7 @@
         <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
         <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
       </file>
-      <file baseinstalldir="/" md5sum="e624ca024f4b6084ca40951df73183fd" name="/DataSift/Storyplayer/PlayerLib/ActionLogItem.php" role="php">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+      <file baseinstalldir="/" md5sum="49015d60535825b0247034fa14e7e764" name="/DataSift/Storyplayer/PlayerLib/ActionLogItem.php" role="php">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
         <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
         <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
       </file>
@@ -429,7 +433,7 @@
         <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
         <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
       </file>
-      <file baseinstalldir="/" md5sum="dafcf377e7a6a1bb98e64b682b83d1ce" name="README.md" role="doc">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+      <file baseinstalldir="/" md5sum="28140747c22da88b935e333b1ce5aed6" name="README.md" role="doc">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
         <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
         <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
       </file>
@@ -453,7 +457,7 @@
       <package>
         <name>Stone</name>
         <channel>datasift.github.io/pear</channel>
-        <min>1.0.0</min>
+        <min>1.4.0</min>
         <max>1.999.9999</max>
       </package>
       <package>

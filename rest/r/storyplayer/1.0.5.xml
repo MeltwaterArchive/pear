@@ -2,7 +2,7 @@
 <r xmlns="http://pear.php.net/dtd/rest.release" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://pear.php.net/dtd/rest.release http://pear.php.net/dtd/rest.release.xsd">
     <p xlink:href="/rest/p/storyplayer">storyplayer</p>
     <c>datasift.github.io/pear</c>
-    <v>1.0.4</v>
+    <v>1.0.5</v>
     <st>stable</st>
     <l>New BSD license.</l>
     <m>stuart</m>
@@ -10,11 +10,11 @@
     <d>
     Storyplayer is a simple tool for quickly creating reliable, repeatable tests for your websites and your back-end processes alike.  Written in PHP, Storyplayer is easily extended to support your unique product or service, and is designed to run against dev, test and production sites.
   </d>
-    <da>2013-05-09 16:29:51</da>
+    <da>2013-05-16 18:24:56</da>
     <n>
     No notes.
   </n>
-    <f>54944</f>
-    <g>http://datasift.github.io/pear/get/storyplayer-1.0.4</g>
-    <x xlink:href="package.1.0.4.xml"/>
+    <f>55008</f>
+    <g>http://datasift.github.io/pear/get/storyplayer-1.0.5</g>
+    <x xlink:href="package.1.0.5.xml"/>
 </r>
