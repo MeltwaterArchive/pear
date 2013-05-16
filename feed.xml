@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://datasift.github.io/pear</id>
-    <updated>2013-05-09T16:29:52+01:00</updated>
+    <updated>2013-05-16T16:28:24+01:00</updated>
     <title>DataSift's PEAR Channel Latest Releases</title>
     <link href="http://datasift.github.io/pear/feed.xml" rel="self" />
     <author>
@@ -9,6 +9,19 @@
     </author>
 
     <entry>
+        <title>Stone 1.3.0 (stable)</title>
+        <link href="http://datasift.github.io/pear/get/Stone-1.3.0.tgz" />
+        <id>http://datasift.github.io/pear/get/Stone-1.3.0.tgz</id>
+        <author>
+            <name>stuart</name>
+        </author>
+        <updated>2013-05-16T16:28:23+01:00</updated>
+        <content>
+            
+    No notes.
+  
+        </content>
+    </entry>    <entry>
         <title>Stone 1.2.3 (stable)</title>
         <link href="http://datasift.github.io/pear/get/Stone-1.2.3.tgz" />
         <id>http://datasift.github.io/pear/get/Stone-1.2.3.tgz</id>
