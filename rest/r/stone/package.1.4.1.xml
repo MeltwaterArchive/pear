@@ -15,11 +15,11 @@
     <email>stuart.herbert@datasift.com</email>
     <active>yes</active>
   </lead>
-  <date>2013-05-16</date>
-  <time>16:28:23</time>
+  <date>2013-06-03</date>
+  <time>15:52:00</time>
   <version>
-    <release>1.3.0</release>
-    <api>1.3</api>
+    <release>1.4.1</release>
+    <api>1.4</api>
   </version>
   <stability>
     <release>stable</release>
@@ -151,7 +151,7 @@
         <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
         <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
       </file>
-      <file baseinstalldir="/" md5sum="9c20f9990671112b792cdb32afc2b09a" name="/DataSift/Stone/ComparisonLib/BooleanComparitor.php" role="php">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+      <file baseinstalldir="/" md5sum="48731ab59601b248e02017c3377a8642" name="/DataSift/Stone/ComparisonLib/BooleanComparitor.php" role="php">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
         <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
         <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
       </file>
@@ -163,7 +163,7 @@
         <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
         <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
       </file>
-      <file baseinstalldir="/" md5sum="ec6d896c5ac04581975f84b12fff5401" name="/DataSift/Stone/ComparisonLib/StringComparitor.php" role="php">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+      <file baseinstalldir="/" md5sum="d6a388dc9fab539bf1a8497357cab98e" name="/DataSift/Stone/ComparisonLib/StringComparitor.php" role="php">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
         <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
         <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
       </file>
@@ -239,7 +239,7 @@
         <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
         <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
       </file>
-      <file baseinstalldir="/" md5sum="3be129eed69d9aa4279d9bc8cab034ff" name="/DataSift/Stone/ConfigLib/BaseConfigLoader.php" role="php">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+      <file baseinstalldir="/" md5sum="d4f66b9d6362f701ef70cef72a3b6f97" name="/DataSift/Stone/ConfigLib/BaseConfigLoader.php" role="php">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
         <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
         <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
       </file>
@@ -263,7 +263,7 @@
         <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
         <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
       </file>
-      <file baseinstalldir="/" md5sum="e0297a133603e283d6b7affc54cc140d" name="/DataSift/Stone/ConfigLib/JsonConfigLoader.php" role="php">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+      <file baseinstalldir="/" md5sum="ce3301ff9ed946e7d7d2c8bca6aa7bd6" name="/DataSift/Stone/ConfigLib/JsonConfigLoader.php" role="php">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
         <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
         <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
       </file>
