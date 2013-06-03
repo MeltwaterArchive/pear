@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://datasift.github.io/pear</id>
-    <updated>2013-05-16T18:26:58+01:00</updated>
+    <updated>2013-06-03T14:27:15+01:00</updated>
     <title>DataSift's PEAR Channel Latest Releases</title>
     <link href="http://datasift.github.io/pear/feed.xml" rel="self" />
     <author>
@@ -42,6 +42,19 @@
             <name>stuart</name>
         </author>
         <updated>2013-05-08T16:32:30+01:00</updated>
+        <content>
+            
+    No notes.
+  
+        </content>
+    </entry>    <entry>
+        <title>storyplayer 1.1.0 (stable)</title>
+        <link href="http://datasift.github.io/pear/get/storyplayer-1.1.0.tgz" />
+        <id>http://datasift.github.io/pear/get/storyplayer-1.1.0.tgz</id>
+        <author>
+            <name>stuart</name>
+        </author>
+        <updated>2013-06-03T14:27:14+01:00</updated>
         <content>
             
     No notes.
