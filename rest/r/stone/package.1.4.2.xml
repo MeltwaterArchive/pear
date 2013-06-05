@@ -15,10 +15,10 @@
     <email>stuart.herbert@datasift.com</email>
     <active>yes</active>
   </lead>
-  <date>2013-05-16</date>
-  <time>18:26:56</time>
+  <date>2013-06-05</date>
+  <time>10:37:21</time>
   <version>
-    <release>1.4.0</release>
+    <release>1.4.2</release>
     <api>1.4</api>
   </version>
   <stability>
@@ -151,7 +151,7 @@
         <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
         <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
       </file>
-      <file baseinstalldir="/" md5sum="9c20f9990671112b792cdb32afc2b09a" name="/DataSift/Stone/ComparisonLib/BooleanComparitor.php" role="php">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+      <file baseinstalldir="/" md5sum="48731ab59601b248e02017c3377a8642" name="/DataSift/Stone/ComparisonLib/BooleanComparitor.php" role="php">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
         <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
         <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
       </file>
@@ -223,7 +223,7 @@
         <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
         <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
       </file>
-      <file baseinstalldir="/" md5sum="0aa547de1f4c070607ef94df36790e6f" name="/DataSift/Stone/ObjectLib/BaseObject.php" role="php">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+      <file baseinstalldir="/" md5sum="9325e351e10074837c15f6c83c3cbce6" name="/DataSift/Stone/ObjectLib/BaseObject.php" role="php">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
         <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
         <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
       </file>
@@ -332,6 +332,10 @@
         <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
       </file>
       <file baseinstalldir="/" md5sum="fd645bbcc4156be701f096f0ebf2bf9e" name="/DataSift/Stone/ExceptionsLib/Exxx/ExceptionTest.php" role="test">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="ef42642997e38220773c12cd92265982" name="/DataSift/Stone/ObjectLib/BaseObjectTest.php" role="test">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
         <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
         <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
       </file>
